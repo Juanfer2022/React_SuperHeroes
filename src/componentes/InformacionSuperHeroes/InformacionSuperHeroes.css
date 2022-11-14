@@ -1,0 +1,20 @@
+.marco {
+    width: 150px;
+    border: solid 1px;
+    margin: 20px;
+    
+}
+
+.posi{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.super-page-container .cards .card img {
+    height: 100px;
+    width: 100%;
+}
+
+.super-page-container .cards .card ul {
+    padding: 5px;
+}

@@ -1,0 +1,11 @@
+.info-equipo{
+    
+    border: solid 1px;
+    margin: 15px;
+    
+}
+.info-equipo ul{
+   
+    font-weight: bold;
+    font-family: monospace;
+}
